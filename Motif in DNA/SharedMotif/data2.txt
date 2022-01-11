@@ -1,0 +1,9 @@
+>Rosalind_1
+GAT
+TACA
+>Rosalind_2
+TAG
+ACCA
+>Rosalind_3
+ATA
+CA
